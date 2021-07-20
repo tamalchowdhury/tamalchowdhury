@@ -1,16 +1,23 @@
-### Hi there 👋
+HTML looked like Chinese text to me, I was scared of coding; now I rock Six Programming Languages, build efficient solutions to business problems everyday.
 
-<!--
-**tamalweb/tamalweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Java
+- JS
+- Python
+- PHP
+- C/C++
+- HTML/CSS?? 🤔
 
-Here are some ideas to get you started:
+(I know HTML is not a programming language, I am still looking for that 6th one, any suggestions?)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What I built for work lately:**
+
+A python script that can categorieze 150K company names in 20 seconds. Saving a month of manual work. 
+
+**What I built for fun lately:**
+
+The Periodic Table of Elements with ReactJS, so that I can memorize them.
+
+### How to connect?
+
+- [linkedin.com/in/tamalweb](https://www.linkedin.com/in/tamalweb)
+- Email: tamalanwaronline [at] gmail [dot] com
