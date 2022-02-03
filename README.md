@@ -6,4 +6,4 @@ Welcome dev! Below you will find my projects and helpful content for you. Feel f
 
 **Learn JSON**
 
-[![json](/img/json-sm.png)](https://github.com/tamalweb/json)
+[![json](/img/json-small.png)](https://github.com/tamalweb/json)
