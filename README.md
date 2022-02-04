@@ -1,6 +1,6 @@
 ![header](/img/bg.png)
 
-Welcome dev! Below you will find my projects and helpful content for you. Feel free to fork a project you like, read the code and ⭐ star the repo!
+Welcome dev! Below you will find projects and helpful content for you, so you don't have to leave this site at all! Feel free to fork a project you like, read the code and ⭐ star the repo! I am improving all my repos with more info on how to get involved. If you like to give a hand, just use the ✏pencil button and suggest a change.
 
 ## Projects
 
@@ -14,3 +14,10 @@ Welcome dev! Below you will find my projects and helpful content for you. Feel f
 **Learn JSON**
 
 [![json](/img/json-small.png)](https://github.com/tamalweb/json)
+
+## Off Site Content
+
+- [Blog](https://tamalweb.com) - Read my articles
+- [Twitter](https://twitter.com/tamalweb) - I am most active here.
+- [Quora](https://www.quora.com/profile/Tamal-Web) - Request me to answer a dev question
+- [Linkedin](https://www.linkedin.com/in/tamalweb) - Connect with me professionally
