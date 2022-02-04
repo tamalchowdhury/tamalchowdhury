@@ -4,7 +4,7 @@ Welcome dev! Below you will find my projects and helpful content for you. Feel f
 
 ## Projects
 
-[![periodic table](/img/periodic-tablel.png)](../periodic-table)
+[![periodic table](/img/periodic-table.png)](../../periodic-table)
 [![reaction poll](/img/reaction-poll.png)](../LinkedinReactionPollGenerator)
 [![Hide YouTube Endscreen](/img/hide-yt.png)](../hide-youtube-endscreen)
 
