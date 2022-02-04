@@ -8,6 +8,8 @@ Welcome dev! Below you will find my projects and helpful content for you. Feel f
 [![reaction poll](/img/reaction-poll.png)](../LinkedinReactionPollGenerator)
 [![Hide YouTube Endscreen](/img/hide-yt.png)](../hide-youtube-endscreen)
 
+<a href="../../../periodic-table"><img src="/img/Originals/periodic-table.png" width="240" height="100" /></a>
+
 ## Resources
 
 **Learn JSON**
