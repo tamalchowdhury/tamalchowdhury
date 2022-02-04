@@ -4,11 +4,10 @@ Welcome dev! Below you will find my projects and helpful content for you. Feel f
 
 ## Projects
 
-[![periodic table](/img/periodic-table.png)](../../periodic-table)
-[![reaction poll](/img/reaction-poll.png)](../LinkedinReactionPollGenerator)
-[![Hide YouTube Endscreen](/img/hide-yt.png)](../hide-youtube-endscreen)
-
-<a href="../../../periodic-table"><img src="/img/Originals/periodic-table.png" width="240" height="100" /></a>
+<a href="../../../periodic-table"><img src="/img/periodic-table.png" width="240" height="100" /></a>
+<a href="../../../LinkedinReactionPollGenerator"><img src="/img/reaction-poll.png" width="240" height="100" /></a>
+<a href="../../../hide-youtube-endscreen"><img src="/img/hide-yt.png" width="240" height="100" /></a>
+<a href="../../../blackjack-cli"><img src="/img/blackjack.png" width="240" height="100" /></a>
 
 ## Resources
 
