@@ -11,9 +11,9 @@ Welcome dev! Below you will find projects and helpful content for you, so you do
 
 ## Resources
 
-**Learn JSON**
+<a href="../../../dom"><img src="/img/dom.png" alt="dom" width="240" height="100" /></a>
+<a href="../../../json"><img src="/img/json.png" alt="json" width="240" height="100" /></a>
 
-[![json](/img/json-small.png)](https://github.com/tamalweb/json)
 
 ## Off Site Content
 
