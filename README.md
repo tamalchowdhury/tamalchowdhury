@@ -20,6 +20,6 @@ Welcome dev! Below you will find projects and helpful content for you, so you do
 ## Off Site Content
 
 - [Blog](https://tamalweb.com) - Read my articles
-- [Twitter](https://twitter.com/tamalweb) - I am most active here.
+- [Twitter](https://twitter.com/tamalchow) - I am most active here.
 - [Quora](https://www.quora.com/profile/Tamal-Web) - Request me to answer a dev question
-- [Linkedin](https://www.linkedin.com/in/tamalweb) - Connect with me professionally
+- [Linkedin](https://www.linkedin.com/in/tamalchowdhury) - Connect with me professionally
