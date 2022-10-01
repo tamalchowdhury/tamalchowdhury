@@ -2,6 +2,10 @@
 
 Software Engineer, React, Nodejs
 
+#### Languages
+
+JavaScript, Python, Bash, PHP, SQL
+
 ### Articles
 
 - [Create a Local Development Environment on Windows](https://www.digitalocean.com/community/tutorials/how-to-install-node-js-and-create-a-local-development-environment-on-windows)
@@ -18,3 +22,7 @@ Software Engineer, React, Nodejs
 - [ReactionPoll.com](https://reactionpoll.com) - Create FB & Linkedin Reaction Photo Polls
 - [PeriodicTable.website](https://PeriodicTable.website)
 - [Touch Grass Online](https://touchgrass.tamalweb.com) ✋
+
+### Hobbies
+
+Chess, Hacking
