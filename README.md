@@ -1,25 +1,20 @@
-[![@tamalchowdhury's Holopin board](https://holopin.io/api/user/board?user=tamalchowdhury)](https://holopin.io/@tamalchowdhury)
+# Tamal Chowdhury
 
-![header](/img/bg.png)
+Software Engineer, React, Nodejs
 
-Welcome dev! Below you will find projects and helpful content for you, so you don't have to leave this site at all! Feel free to fork a project you like, read the code and ⭐ star the repo! I am improving all my repos with more info on how to get involved. If you like to give a hand, just use the ✏pencil button and suggest a change.
+### Articles
 
-## Projects
+- [Create a Local Development Environment on Windows](https://www.digitalocean.com/community/tutorials/how-to-install-node-js-and-create-a-local-development-environment-on-windows)
+- [How To Set Up a React Project with Vite](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-react-project-with-vite)
+- [React Redux - A Complete Guide With Examples & Use Cases](memberstack.com/blog/react-redux)
+- [Best Practices on How to Compress Images For Reactjs](https://tamalweb.com/compress-images-reactjs)
+- [Mastering JSON in ReactJS](https://tamalweb.com/json-reactjs)
 
-<a href="../../../periodic-table"><img src="/img/periodic-table.png" width="240" height="100" /></a>
-<a href="../../../LinkedinReactionPollGenerator"><img src="/img/reaction-poll.png" width="240" height="100" /></a>
-<a href="../../../hide-youtube-endscreen"><img src="/img/hide-yt.png" width="240" height="100" /></a>
-<a href="../../../blackjack-cli"><img src="/img/blackjack.png" width="240" height="100" /></a>
+### Projects
 
-## Resources
-
-<a href="../../../dom"><img src="/img/dom.png" alt="dom" width="240" height="100" /></a>
-<a href="../../../json"><img src="/img/json.png" alt="json" width="240" height="100" /></a>
-
-
-## Off Site Content
-
-- [Blog](https://tamalweb.com) - Read my articles
-- [Twitter](https://twitter.com/tamalchow) - I am most active here.
-- [Quora](https://www.quora.com/profile/Tamal-Web) - Request me to answer a dev question
-- [Linkedin](https://www.linkedin.com/in/tamalchowdhury) - Connect with me professionally
+- [MySocial.page](https://mysocial.page) - One page link-in-bio builder
+- [CashoutCharge.com](https://cashoutcharge.com) - 1,500 monthly users
+- [Hide YouTube End Cards](https://chrome.google.com/webstore/detail/hide-youtube-end-cards/ifmbbceocmponbpifmpkkhnidmgopmmf) - (Chrome Extension) 500+ installs
+- [ReactionPoll.com](https://reactionpoll.com) - Create FB & Linkedin Reaction Photo Polls
+- [PeriodicTable.website](https://PeriodicTable.website)
+- [Touch Grass Online](https://touchgrass.tamalweb.com) ✋
