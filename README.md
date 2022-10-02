@@ -10,7 +10,7 @@ JavaScript, Python, Bash, PHP, SQL
 
 - [Create a Local Development Environment on Windows](https://www.digitalocean.com/community/tutorials/how-to-install-node-js-and-create-a-local-development-environment-on-windows)
 - [How To Set Up a React Project with Vite](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-react-project-with-vite)
-- [React Redux - A Complete Guide With Examples & Use Cases](memberstack.com/blog/react-redux)
+- [React Redux - A Complete Guide With Examples & Use Cases](https://memberstack.com/blog/react-redux)
 - [Best Practices on How to Compress Images For Reactjs](https://tamalweb.com/compress-images-reactjs)
 - [Mastering JSON in ReactJS](https://tamalweb.com/json-reactjs)
 
