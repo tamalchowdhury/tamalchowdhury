@@ -1,10 +1,10 @@
-# Tamal Chowdhury
+# [Tamal Chowdhury 🥑](https://tamalchowdhury.com)
 
-Software Engineer, React, Nodejs
+Developer Advocate, Open To Work ✋ Software Engineer, building with JavaScript, React, and Node.
 
-#### Languages
+**Languages:** JavaScript, React, Node, MERN, MongoDB, Prisma, Python, and SQL
 
-JavaScript, Python, Bash, PHP, SQL
+**Expertise:** Content creation, technical writing, SEO, video production, teaching, mentoring 
 
 ### Articles
 
@@ -17,7 +17,7 @@ JavaScript, Python, Bash, PHP, SQL
 ### Projects
 
 - [MySocial.page](https://mysocial.page) - One page link-in-bio builder
-- [CashoutCharge.com](https://cashoutcharge.com) - 1,500 monthly users
+- [CashoutCharge.com](https://cashoutcharge.com) - 2,000 monthly users
 - [Hide YouTube End Cards](https://chrome.google.com/webstore/detail/hide-youtube-end-cards/ifmbbceocmponbpifmpkkhnidmgopmmf) - (Chrome Extension) 500+ installs
 - [ReactionPoll.com](https://reactionpoll.com) - Create FB & Linkedin Reaction Photo Polls
 - [PeriodicTable.website](https://PeriodicTable.website)
