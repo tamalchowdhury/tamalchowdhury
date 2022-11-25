@@ -1,6 +1,8 @@
+<a href="#"><img src="/img/banner.png" alt="github banner for tamal chowdhury" /></a>
+
 # [Tamal Chowdhury 🥑](https://tamalchowdhury.com)
 
-Developer Advocate, Open To Work ✋ Software Engineer, building with JavaScript, React, and Node.
+Developer Advocate, Looking for my next role ✋ Software Engineer, building with JavaScript, React, and Node.
 
 **Languages:** JavaScript, React, Node, MERN, MongoDB, Prisma, Python, and SQL
 
