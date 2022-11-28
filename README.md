@@ -8,7 +8,7 @@ Developer Advocate, Looking for my next role ✋ Software Engineer, building wit
 
 **Expertise:** Content creation, technical writing, SEO, video production, teaching, mentoring 
 
-## Videos
+### Videos
 
 | **Web Scrapping with JavaScript** | **Auto Indent Code with Prettier** |  **Deploy React Site to Netlify** |
 | --- | --- | --- |
@@ -16,19 +16,19 @@ Developer Advocate, Looking for my next role ✋ Software Engineer, building wit
 
 ### Articles
 
+- [Best Practices on How to Compress Images For Reactjs](https://tamalweb.com/compress-images-reactjs)
+- [Mastering JSON in ReactJS](https://tamalweb.com/json-reactjs)
 - [Create a Local Development Environment on Windows](https://www.digitalocean.com/community/tutorials/how-to-install-node-js-and-create-a-local-development-environment-on-windows)
 - [How To Set Up a React Project with Vite](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-react-project-with-vite)
 - [React Redux - A Complete Guide With Examples & Use Cases](https://memberstack.com/blog/react-redux)
-- [Best Practices on How to Compress Images For Reactjs](https://tamalweb.com/compress-images-reactjs)
-- [Mastering JSON in ReactJS](https://tamalweb.com/json-reactjs)
 
 ### Projects
 
-- [MySoci.al](https://mysocial.page) - One page link-in-bio builder
-- [CashoutCharge.com](https://cashoutcharge.com) - 2,000 monthly users
+- [MySoci.al](https://mysoci.al) - Drag and drop website builder. Demo: [`mysoci.al/tamalweb`](https://mysoci.al/tamalweb)
+- [CashoutCharge.com](https://cashoutcharge.com) - **2,000+** monthly users using to calculate charges
 - [Hide YouTube End Cards](https://chrome.google.com/webstore/detail/hide-youtube-end-cards/ifmbbceocmponbpifmpkkhnidmgopmmf) - (Chrome Extension) 600+ installs
-- [Periodic Table](https://periodictableonline.netlify.app/)
-- [Touch Grass Online](https://touchgrass.tamalweb.com) ✋
+- [Periodic Table](https://periodictableonline.netlify.app/) - I love atoms.
+- [Touch Grass Online](https://touchgrass.tamalweb.com) ✋Go out and touch some grass
 
 ### Hobbies
 
