@@ -18,11 +18,10 @@ Developer Advocate, Looking for my next role ✋ Software Engineer, building wit
 
 ### Projects
 
-- [MySocial.page](https://mysocial.page) - One page link-in-bio builder
+- [MySoci.al](https://mysocial.page) - One page link-in-bio builder
 - [CashoutCharge.com](https://cashoutcharge.com) - 2,000 monthly users
-- [Hide YouTube End Cards](https://chrome.google.com/webstore/detail/hide-youtube-end-cards/ifmbbceocmponbpifmpkkhnidmgopmmf) - (Chrome Extension) 500+ installs
-- [ReactionPoll.com](https://reactionpoll.com) - Create FB & Linkedin Reaction Photo Polls
-- [PeriodicTable.website](https://PeriodicTable.website)
+- [Hide YouTube End Cards](https://chrome.google.com/webstore/detail/hide-youtube-end-cards/ifmbbceocmponbpifmpkkhnidmgopmmf) - (Chrome Extension) 600+ installs
+- [Periodic Table](https://periodictableonline.netlify.app/)
 - [Touch Grass Online](https://touchgrass.tamalweb.com) ✋
 
 ### Hobbies
