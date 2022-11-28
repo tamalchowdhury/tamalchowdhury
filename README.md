@@ -25,8 +25,8 @@ Developer Advocate, Looking for my next role ✋ Software Engineer, building wit
 ### Projects
 
 - [MySoci.al](https://mysoci.al) - Drag and drop website builder. Demo: [`mysoci.al/tamalweb`](https://mysoci.al/tamalweb)
-- [CashoutCharge.com](https://cashoutcharge.com) - **2,000+** monthly users using to calculate charges
-- [Hide YouTube End Cards](https://chrome.google.com/webstore/detail/hide-youtube-end-cards/ifmbbceocmponbpifmpkkhnidmgopmmf) - (Chrome Extension) 600+ installs
+- [CashoutCharge.com](https://cashoutcharge.com) - **2,000+** monthly users calculating charges
+- [Hide YouTube End Cards](https://chrome.google.com/webstore/detail/hide-youtube-end-cards/ifmbbceocmponbpifmpkkhnidmgopmmf) - **600+** people blocking those annoying cards from YouTube
 - [Periodic Table](https://periodictableonline.netlify.app/) - I love atoms.
 - [Touch Grass Online](https://touchgrass.tamalweb.com) ✋Go out and touch some grass
 
