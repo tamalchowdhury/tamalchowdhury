@@ -1,6 +1,6 @@
 <a href="#"><img src="/img/banner.png" alt="github banner for tamal chowdhury" /></a>
 
-# [Tamal Chowdhury 🥑](https://tamalchowdhury.com)
+# [Tamal Anwar Chowdhury 🥑](https://tamalchowdhury.com)
 
 Developer Advocate, Looking for my next role ✋ Software Engineer, building with JavaScript, React, and Node.
 
