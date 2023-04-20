@@ -1,8 +1,6 @@
-<a href="#"><img src="/img/banner.png" alt="github banner for tamal chowdhury" /></a>
+# [Tamal Anwar Chowdhury](https://tamalchowdhury.com)
 
-# [Tamal Anwar Chowdhury 🥑](https://tamalchowdhury.com)
-
-Developer Advocate, Looking for my next role ✋ Software Engineer, building with JavaScript, React, and Node.
+Bangladeshi Software Engineer, Content Creator, Developer Advocate, Looking for my next role ✋ Building with JavaScript, React, and Node.
 
 **Languages:** JavaScript, React, Node, MERN, MongoDB, Prisma, Python, and SQL
 
@@ -24,9 +22,9 @@ Developer Advocate, Looking for my next role ✋ Software Engineer, building wit
 
 ### Projects
 
-- [MySoci.al](https://mysoci.al) - Drag and drop website builder. Demo: [`mysoci.al/tamalweb`](https://mysoci.al/tamalweb)
-- [CashoutCharge.com](https://cashoutcharge.com) - **2,000+** monthly users calculating charges
-- [Hide YouTube End Cards](https://chrome.google.com/webstore/detail/hide-youtube-end-cards/ifmbbceocmponbpifmpkkhnidmgopmmf) - **600+** people blocking those annoying cards from YouTube
+- [MySoci.al](https://mysoci.al) - Drag and drop website builder. Demo: [`mysoci.al/tamal`](https://mysoci.al/tamal)
+- [CashoutCharge.com](https://cashoutcharge.com) - **200+** daily users calculating charges
+- [Hide YouTube End Cards](https://chrome.google.com/webstore/detail/hide-youtube-end-cards/ifmbbceocmponbpifmpkkhnidmgopmmf) - **1,000+** people blocking those annoying cards from YouTube
 - [Periodic Table](https://periodictableonline.netlify.app/) - I love atoms.
 - [Touch Grass Online](https://touchgrass.tamalweb.com) ✋Go out and touch some grass
 
