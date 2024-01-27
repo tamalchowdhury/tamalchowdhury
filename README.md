@@ -1,6 +1,6 @@
 # [Tamal Anwar Chowdhury](https://tamalchowdhury.com)
 
-Bangladeshi Software Engineer, Content Creator, Developer Advocate, Looking for my next role ✋ Building with JavaScript, React, and Node.
+Full Stack React Developer | Redux Toolkit | JavaScript | NodeJS MERN
 
 **Languages:** JavaScript, React, Node, MERN, MongoDB, Prisma, Python, and SQL
 
@@ -22,11 +22,12 @@ Bangladeshi Software Engineer, Content Creator, Developer Advocate, Looking for 
 
 ### Projects
 
-- [MySoci.al](https://mysoci.al) - Drag and drop website builder. Demo: [`mysoci.al/tamal`](https://mysoci.al/tamal)
+
 - [CashoutCharge.com](https://cashoutcharge.com) - **200+** daily users calculating charges
 - [Hide YouTube End Cards](https://chrome.google.com/webstore/detail/hide-youtube-end-cards/ifmbbceocmponbpifmpkkhnidmgopmmf) - **1,000+** people blocking those annoying cards from YouTube
 - [Periodic Table](https://periodictableonline.netlify.app/) - I love atoms.
 - [Touch Grass Online](https://touchgrass.tamalweb.com) ✋Go out and touch some grass
+- [MySoci.al](https://mysoci.al) - Drag and drop website builder.
 
 ### Hobbies
 
