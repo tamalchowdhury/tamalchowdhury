@@ -9,7 +9,7 @@ JavaScript Software Engineer, Full Stack React, Next.js, TailwindCSS, TypeScript
 
 - [McKenzie and Paz Builders website](https://mckenzieandpazbuilders.vercel.app/) in Next.js 14, TailwindCSS, and TypeScript
 - [CashoutCharge.com](https://cashoutcharge.com) - **200+** daily users calculating charges
-- [Mindfully: Hide YouTube End Cards](https://chrome.google.com/webstore/detail/hide-youtube-end-cards/ifmbbceocmponbpifmpkkhnidmgopmmf) - **1,000+** people blocking those annoying cards from YouTube
+- [Mindfully: Hide YouTube End Cards](https://chrome.google.com/webstore/detail/hide-youtube-end-cards/ifmbbceocmponbpifmpkkhnidmgopmmf) - **3,000+** people blocking those annoying cards from YouTube
 
 ### Videos
 
