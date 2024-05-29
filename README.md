@@ -2,21 +2,19 @@
 
 JavaScript Software Engineer, Full Stack React, Next.js, TailwindCSS, TypeScript
 
-**⭐ Open to work on freelance projects or full-time commitment**
+**⭐ Open to work on freelance projects or full-time remote position**
 
 ### Projects
 
+| **MySocial Page Builder** | **Mindfully. Chrome Extension** |  **Cashout Charge** |
+| --- | --- | --- |
+|  [![MySocial Page Builder](./img/mysocial.png)](https://mysocialpage.vercel.app) <br /> Create a One Page Website for All Your Digital Profiles. Create a page for your business, your project, or yourself. It's free!  |  [![Mindfully. Chrome Extension](./img/mindfully.png)](https://chromewebstore.google.com/detail/mindfully-hide-youtube-en/ifmbbceocmponbpifmpkkhnidmgopmmf) <br /> Mindfully Hides YouTube end cards so you don't miss the climax part of the music video or movie clip.   |  [![Cashout Charge](./img/cashoutcharge.png)](https://www.cashoutcharge.com/) <br /> Cashout Charge for Bkash, Nagad, Rocket, and Upay mobile financial services in Bangladesh  |
+
+### More Projects
+
 
 - [McKenzie and Paz Builders website](https://mckenzieandpazbuilders.vercel.app/) in Next.js 14, TailwindCSS, and TypeScript
-- [CashoutCharge.com](https://cashoutcharge.com) - **200+** daily users calculating charges
-- [Mindfully: Hide YouTube End Cards](https://chrome.google.com/webstore/detail/hide-youtube-end-cards/ifmbbceocmponbpifmpkkhnidmgopmmf) - **3,000+** people blocking those annoying cards from YouTube
-
-### Videos
-
-| **Web Scrapping with JavaScript** | **Auto Indent Code with Prettier** |  **Deploy React Site to Netlify** |
-| --- | --- | --- |
-|  [![Web Scrapping with JavaScript](https://i.ytimg.com/vi/-GKTZJbCIhE/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBvgWPryTceRIpjWRTNlSE83sFvsA)](https://www.youtube.com/watch?v=-GKTZJbCIhE) <br /> Scrap useful data from a website, right from the browser console.  |  [![Auto indent code with prettier](https://i.ytimg.com/vi/dZU2HsrlGZ4/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBK7ZFtFI88Mymlgs1udkVc5bYzgg)](https://www.youtube.com/watch?v=dZU2HsrlGZ4) <br /> Never waste time manually formatting code again.   |  [![Deploy react site to Netlify](https://i.ytimg.com/vi/aJVKKbisM0w/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBTUsDO9Vg3-mSJvQiSqk0Fd7PO6w)](https://www.youtube.com/watch?v=aJVKKbisM0w) <br /> Free, fast, and reliable hosting for your websites  |
-
+- [Terindah Photography](https://indah-portfolio-js.vercel.app/) Made with HTML, CSS, JavaScript
 
 
 ### Articles
