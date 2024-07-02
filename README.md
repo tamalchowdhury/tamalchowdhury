@@ -8,7 +8,7 @@ JavaScript Software Engineer, Full Stack React, Next.js, TailwindCSS, TypeScript
 
 | **MySocial Page Builder** | **Mindfully. Chrome Extension** |  **Cashout Charge** |
 | --- | --- | --- |
-|  [![MySocial Page Builder](./img/mysocial.png)](https://mysocialpage.vercel.app) <br /> Create a One Page Website for All Your Digital Profiles. Create a page for your business, your project, or yourself. It's free!  |  [![Mindfully. Chrome Extension](./img/mindfully.png)](https://chromewebstore.google.com/detail/mindfully-hide-youtube-en/ifmbbceocmponbpifmpkkhnidmgopmmf) <br /> Mindfully Hides YouTube end cards so you don't miss the climax part of the music video or movie clip.   |  [![Cashout Charge](./img/cashoutcharge.png)](https://www.cashoutcharge.com/) <br /> Cashout Charge for Bkash, Nagad, Rocket, and Upay mobile financial services in Bangladesh  |
+|  [![MySocial Page Builder](./img/mysocial.png)](https://mysoci.al) <br /> Create a One Page Website for All Your Digital Profiles. Create a page for your business, your project, or yourself. It's free!  |  [![Mindfully. Chrome Extension](./img/mindfully.png)](https://chromewebstore.google.com/detail/mindfully-hide-youtube-en/ifmbbceocmponbpifmpkkhnidmgopmmf) <br /> Mindfully Hides YouTube end cards so you don't miss the climax part of the music video or movie clip.   |  [![Cashout Charge](./img/cashoutcharge.png)](https://www.cashoutcharge.com/) <br /> Cashout Charge for Bkash, Nagad, Rocket, and Upay mobile financial services in Bangladesh  |
 
 ### More Projects
 
