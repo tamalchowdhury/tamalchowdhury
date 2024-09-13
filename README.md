@@ -1,8 +1,10 @@
 # [Tamal Chowdhury](https://www.linkedin.com/in/tamalchowdhury/)
 
-JavaScript Software Engineer, Full Stack React, Next.js, TailwindCSS, TypeScript
+Experienced Frontend Developer seeking remote opportunities to leverage my expertise in building innovative web applications. With a decade of expertise in web development, I specialize in crafting modern, scalable web applications using React, Next.js 14, TypeScript, CSS Grid, Flexbox, Prisma, MongoDB, and Git. My strong foundation in HTML, CSS, and JavaScript, combined with a deep understanding of frontend architecture and best practices, enables me to deliver high-quality, user-centric solutions.
 
-**⭐ Open to work on freelance projects or full-time remote position**
+My experience with tools like Prisma and MongoDB allows me to collaborate effectively with full-stack teams, ensuring a seamless development process. While I have a solid understanding of backend technologies, my primary focus and passion lie in frontend development.
+
+I am particularly interested in building SaaS platforms and website builders, where I can apply my skills to create solutions that drive business value and delight users.
 
 ### Projects
 
