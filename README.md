@@ -1,4 +1,4 @@
-# [Tamal Chowdhury](https://www.linkedin.com/in/tamalchowdhury/)
+# [Tamal Anwar Chowdhury](https://www.linkedin.com/in/tamalchowdhury/)
 
 Experienced Frontend Developer seeking remote opportunities to leverage my expertise in building innovative web applications. With a decade of expertise in web development, I specialize in crafting modern, scalable web applications using React, Next.js 14, TypeScript, CSS Grid, Flexbox, Prisma, MongoDB, and Git. My strong foundation in HTML, CSS, and JavaScript, combined with a deep understanding of frontend architecture and best practices, enables me to deliver high-quality, user-centric solutions.
 
