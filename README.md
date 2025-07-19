@@ -27,3 +27,4 @@
 ### Public Projects
 - [Mindefully, Hide YouTube End Cards](https://chromewebstore.google.com/detail/mindfully-hide-youtube-en/ifmbbceocmponbpifmpkkhnidmgopmmf?hl=en) - Chrome & Firefox Extension 4k installs
 - [CashoutCharge.com](https://www.cashoutcharge.com/) - Bkash, Nagad etc, 3.5k monthly users
+- [BlogKori Theme](https://wordpress.org/themes/blogkori/) - WordPress Theme (legacy), it was my first open-source contribution in 2015
