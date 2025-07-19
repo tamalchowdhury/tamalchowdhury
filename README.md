@@ -19,5 +19,11 @@
 
 ### Web Development
 
-- [McKenzie and Paz Builders website](https://mckenzieandpazbuilders.vercel.app/) in Next.js 14, TailwindCSS, and TypeScript
-- [Terindah Photography](https://indah-portfolio-js.vercel.app/) Made with HTML, CSS, JavaScript
+- [TuneFizz](https://tunefizz.com/) WordPress Divi Theme, Website lead
+- [Woodland Wellness Group](https://woodlandwellnessgroup.org/) HTML, CSS, JS
+- [Toby Malamute, Author](https://tobymalamute.com/) WordPress
+- [Terindah Photography](https://indah-portfolio-js.vercel.app/) HTML, CSS, JavaScript
+
+### Public Projects
+- [Mindefully, Hide YouTube End Cards](https://chromewebstore.google.com/detail/mindfully-hide-youtube-en/ifmbbceocmponbpifmpkkhnidmgopmmf?hl=en) - Chrome & Firefox Extension 4k installs
+- [CashoutCharge.com](https://www.cashoutcharge.com/) - Bkash, Nagad etc, 3.5k monthly users
