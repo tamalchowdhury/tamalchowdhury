@@ -1,30 +1,30 @@
-# [Tamal Anwar Chowdhury](https://www.linkedin.com/in/tamalchowdhury/)
+# <a href="https://www.linkedin.com/in/tamalchowdhury/" target="_blank">Tamal Anwar Chowdhury</a>
 
 ### Technical Docs
 
 **Kinde**
 
-- [Kinde & Bravo Studio](https://docs.kinde.com/integrate/third-party-tools/kinde-bravo-studio/) - Created the full integration from scratch
-- [Kinde & Supabase](https://docs.kinde.com/integrate/third-party-tools/kinde-supabase/) - Updated the article to docs, [pushed changes](https://github.com/kinde-oss/documentation/pull/448) to Kinde GitHub repo
-- [Guide to app store reviews](https://docs.kinde.com/releases/guides/guide-to-app-store-approvals/) - Converted user troubleshooting solutions to guide
+- <a href="https://docs.kinde.com/integrate/third-party-tools/kinde-bravo-studio/" target="_blank">Kinde & Bravo Studio</a> - Created the full integration from scratch
+- <a href="https://docs.kinde.com/integrate/third-party-tools/kinde-supabase/" target="_blank">Kinde & Supabase</a> - Updated the article to docs, <a href="https://github.com/kinde-oss/documentation/pull/448" target="_blank">pushed changes</a> to Kinde GitHub repo
+- <a href="https://docs.kinde.com/releases/guides/guide-to-app-store-approvals/" target="_blank">Guide to app store reviews</a> - Converted user troubleshooting solutions to guide
 
 **DigitalOcean**
   
-- [Local Dev Environment on Windows](https://www.digitalocean.com/community/tutorials/how-to-install-node-js-and-create-a-local-development-environment-on-windows) - Initiated the Windows guide from scratch
-- [React with Vite](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-react-project-with-vite)
+- <a href="https://www.digitalocean.com/community/tutorials/how-to-install-node-js-and-create-a-local-development-environment-on-windows" target="_blank">Local Dev Environment on Windows</a> - Initiated the Windows guide from scratch
+- <a href="https://www.digitalocean.com/community/tutorials/how-to-set-up-a-react-project-with-vite" target="_blank">React with Vite</a>
 
 **MemberStack**
 
-- [React Redux - A Complete Guide](https://memberstack.com/blog/react-redux)
+- <a href="https://memberstack.com/blog/react-redux" target="_blank">React Redux - A Complete Guide</a>
 
 ### Web Development
 
-- [TuneFizz](https://tunefizz.com/) WordPress Divi Theme, Website lead
-- [Woodland Wellness Group](https://woodlandwellnessgroup.org/) HTML, CSS, JS
-- [Toby Malamute, Author](https://tobymalamute.com/) WordPress
-- [Terindah Photography](https://indah-portfolio-js.vercel.app/) HTML, CSS, JavaScript
+- <a href="https://tunefizz.com/" target="_blank">TuneFizz</a> WordPress Divi Theme, Website lead
+- <a href="https://woodlandwellnessgroup.org/" target="_blank">Woodland Wellness Group</a> HTML, CSS, JS
+- <a href="https://tobymalamute.com/" target="_blank">Toby Malamute, Author</a> WordPress
+- <a href="https://indah-portfolio-js.vercel.app/" target="_blank">Terindah Photography</a> HTML, CSS, JavaScript
 
 ### Public Projects
-- [Mindefully, Hide YouTube End Cards](https://chromewebstore.google.com/detail/mindfully-hide-youtube-en/ifmbbceocmponbpifmpkkhnidmgopmmf?hl=en) - Chrome & Firefox Extension 4k installs
-- [CashoutCharge.com](https://www.cashoutcharge.com/) - Bkash, Nagad etc, 3.5k monthly users
-- [BlogKori Theme](https://wordpress.org/themes/blogkori/) - WordPress Theme (legacy), it was my first open-source contribution in 2015
+- <a href="https://chromewebstore.google.com/detail/mindfully-hide-youtube-en/ifmbbceocmponbpifmpkkhnidmgopmmf?hl=en" target="_blank">Mindefully, Hide YouTube End Cards</a> - Chrome & Firefox Extension 4k installs
+- <a href="https://www.cashoutcharge.com/" target="_blank">CashoutCharge.com</a> - Bkash, Nagad etc, 3.5k monthly users
+- <a href="https://wordpress.org/themes/blogkori/" target="_blank">BlogKori Theme</a> - WordPress Theme (legacy), it was my first open-source contribution in 2015
