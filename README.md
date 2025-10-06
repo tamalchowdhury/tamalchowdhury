@@ -6,8 +6,10 @@
 
 - <a href="https://docs.kinde.com/integrate/third-party-tools/kinde-bravo-studio/" target="_blank">Kinde & Bravo Studio</a> - Created the full integration from scratch
 - <a href="https://docs.kinde.com/integrate/third-party-tools/kinde-supabase/" target="_blank">Kinde & Supabase</a> - Updated the article to docs, <a href="https://github.com/kinde-oss/documentation/pull/448" target="_blank">pushed changes</a> to Kinde GitHub repo
-- <a href="https://docs.kinde.com/integrate/third-party-tools/kinde-supabase-todo-app/" target="_blank">Create a to-do app with Kinde and Supabase</a>
+- [Use Kinde auth in an Electron app](https://docs.kinde.com/integrate/third-party-tools/kinde-and-electron/)
 - <a href="https://docs.kinde.com/releases/guides/guide-to-app-store-approvals/" target="_blank">Guide to app store reviews</a> - Converted user troubleshooting solutions to guide
+- <a href="https://docs.kinde.com/integrate/third-party-tools/kinde-supabase-todo-app/" target="_blank">Create a to-do app with Kinde and Supabase</a>
+- [Customize tokens using workflows](https://docs.kinde.com/workflows/workflow-tutorials/customize-token-with-workflow/)
 
 **DigitalOcean**
   
