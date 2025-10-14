@@ -10,6 +10,7 @@
 - <a href="https://docs.kinde.com/releases/guides/guide-to-app-store-approvals/" target="_blank">Guide to app store reviews</a> - Converted user troubleshooting solutions to guide
 - <a href="https://docs.kinde.com/integrate/third-party-tools/kinde-supabase-todo-app/" target="_blank">Create a to-do app with Kinde and Supabase</a>
 - [Customize tokens using workflows](https://docs.kinde.com/workflows/workflow-tutorials/customize-token-with-workflow/)
+- **Video guide**: [Kinde Workflow: Custom Password Validator](https://www.youtube.com/watch?v=XGxtKf5XSLQ)
 
 **DigitalOcean**
   
@@ -19,6 +20,7 @@
 **MemberStack**
 
 - <a href="https://memberstack.com/blog/react-redux" target="_blank">React Redux - A Complete Guide</a>
+
 
 ### Web Development
 
