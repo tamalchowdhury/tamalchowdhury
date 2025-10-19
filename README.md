@@ -4,7 +4,7 @@
 
 **Kinde**
 
-- [Kinde & Bravo Studio](https://github.com/tamalchowdhury/kinde-bravo-studio) - Developed the full custom OAuth2 integration from scratch. [Read it](https://docs.kinde.com/integrate/third-party-tools/kinde-bravo-studio/).
+- [Kinde & Bravo Studio](https://github.com/tamalchowdhury/kinde-bravo-studio) - Developed the full custom OAuth2 integration from scratch + [Figma template](https://www.figma.com/community/file/1470830408542459372/bravo-sample-kinde-auth-starter-kit). [Read it](https://docs.kinde.com/integrate/third-party-tools/kinde-bravo-studio/).
 - [Kinde & Electron](https://github.com/tamalchowdhury/kinde-electron) - Developed the full PKCE auth integration from scratch. [Read it](https://docs.kinde.com/integrate/third-party-tools/kinde-and-electron).
 - [Kinde & Supabase](https://github.com/tamalchowdhury/kinde-supabase) - Developed the new integration guide to match new architecture. [Read it](https://docs.kinde.com/integrate/third-party-tools/kinde-supabase/).
 - [Kinde & FastAPI](https://github.com/tamalchowdhury/kinde-fastapi) - Updated the full Python integration guide.
