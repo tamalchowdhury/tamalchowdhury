@@ -1,16 +1,15 @@
 # <a href="https://www.linkedin.com/in/tamalchowdhury/" target="_blank">Tamal Anwar Chowdhury</a>
 
-### Technical Docs
+### Integrations Developed
 
 **Kinde**
 
-- <a href="https://docs.kinde.com/integrate/third-party-tools/kinde-bravo-studio/" target="_blank">Kinde & Bravo Studio</a> - Created the full integration from scratch
-- <a href="https://docs.kinde.com/integrate/third-party-tools/kinde-supabase/" target="_blank">Kinde & Supabase</a> - Updated the article to docs, <a href="https://github.com/kinde-oss/documentation/pull/448" target="_blank">pushed changes</a> to Kinde GitHub repo
-- [Use Kinde auth in an Electron app](https://docs.kinde.com/integrate/third-party-tools/kinde-and-electron/)
-- <a href="https://docs.kinde.com/releases/guides/guide-to-app-store-approvals/" target="_blank">Guide to app store reviews</a> - Converted user troubleshooting solutions to guide
-- <a href="https://docs.kinde.com/integrate/third-party-tools/kinde-supabase-todo-app/" target="_blank">Create a to-do app with Kinde and Supabase</a>
-- [Customize tokens using workflows](https://docs.kinde.com/workflows/workflow-tutorials/customize-token-with-workflow/)
-- **Video guide**: [Kinde Workflow: Custom Password Validator](https://www.youtube.com/watch?v=XGxtKf5XSLQ)
+- Kinde & Bravo Studio - Developed the full custom OAuth2 integration from scratch. [Read it](https://docs.kinde.com/integrate/third-party-tools/kinde-bravo-studio/).
+- [Kinde & Electron](https://github.com/tamalchowdhury/kinde-electron) - Developed the full PKCE auth integration from scratch. [Read it](https://docs.kinde.com/integrate/third-party-tools/kinde-and-electron).
+- [Kinde & Supabase](https://github.com/tamalchowdhury/kinde-supabase) - Developed the new integration guide to match new architecture. [Read it](https://docs.kinde.com/integrate/third-party-tools/kinde-supabase/).
+- [Kinde & FastAPI](https://github.com/tamalchowdhury/kinde-fastapi) - Updated the full Python integration guide.
+- [Kinde Custom Password Validator](https://github.com/tamalchowdhury/kinde-custom-password-validation) - Developed a custom workflow from scratch. [Video](https://www.youtube.com/watch?v=XGxtKf5XSLQ)
+
 
 **DigitalOcean**
   
