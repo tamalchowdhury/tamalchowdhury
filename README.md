@@ -5,12 +5,12 @@
 - [Kinde & Bravo Studio](https://docs.kinde.com/integrate/third-party-tools/kinde-bravo-studio) + [Figma template](https://www.figma.com/community/file/1470830408542459372/bravo-sample-kinde-auth-starter-kit) - Developed the full custom OAuth2 integration from scratch 
 - [Kinde & Electron](https://docs.kinde.com/integrate/third-party-tools/kinde-and-electron) - Developed the full OAuth2 + PKCE flow from scratch. 
 - [Kinde & Supabase](https://docs.kinde.com/integrate/third-party-tools/kinde-supabase/) - Developed the new integration guide to match new architecture. 
-- [Kinde Custom Password Validator](https://github.com/tamalchowdhury/kinde-custom-password-validation) + [Video](https://www.youtube.com/watch?v=XGxtKf5XSLQ) - Developed a custom workflow from scratch. 
-- [Kinde Billing: Deny Plan Cancel](https://docs.kinde.com/workflows/workflow-tutorials/check-plan-cancellation-eligibility/).
-- Kinde Billing: Deny Plan Change.
+- [Kinde Workflow: Customize tokens](https://docs.kinde.com/workflows/workflow-tutorials/customize-token-with-workflow/)
+- [Kinde Custom Password Validator](https://docs.kinde.com/workflows/workflow-tutorials/custom-password-validation-check/) + [Video](https://www.youtube.com/watch?v=XGxtKf5XSLQ)
+- [Kinde Billing: Check plan cancellation eligibility](https://docs.kinde.com/workflows/workflow-tutorials/check-plan-cancellation-eligibility/).
+- [Kinde Billing: Check plan change eligibility](https://docs.kinde.com/workflows/workflow-tutorials/check-plan-change-eligibility/).
 - Kinde Workflow: M2M Token Generation.
 - Kinde Mailgun Integration.
-
 ### Integrations Repaired
 
 - [Kinde & FastAPI](https://docs.kinde.com/developer-tools/guides/protect-fastapi-routes-with-kinde/) - Python.
@@ -21,7 +21,7 @@
 - Kinde & Drizzle
 - Kinde & Prisma
 - Kinde & Netlify
-- Kinde & Cloudflare Workers
+- Kinde & Cloudflare Workers - Made it beginner friendly.
 
 ### Other Docs
 
