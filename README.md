@@ -13,6 +13,7 @@
 - Kinde Mailgun Integration.
 ### Integrations Repaired
 
+- [Kinde & Cloudflare Workers](https://docs.kinde.com/integrate/third-party-tools/verifying-jwts-cloudflare-workers/) - Made it beginner friendly.
 - [Kinde & FastAPI](https://docs.kinde.com/developer-tools/guides/protect-fastapi-routes-with-kinde/) - Python.
 - [Kinde & Firebase](https://docs.kinde.com/integrate/third-party-tools/kinde-firebase/)
 - [Kinde & Vercel](https://docs.kinde.com/developer-tools/guides/deploy-on-vercel)
@@ -21,7 +22,6 @@
 - Kinde & Drizzle
 - Kinde & Prisma
 - Kinde & Netlify
-- Kinde & Cloudflare Workers - Made it beginner friendly.
 
 ### Other Docs
 
@@ -41,7 +41,7 @@
 - <a href="https://tunefizz.com/" target="_blank">TuneFizz</a> WordPress Divi Theme, Website lead
 - <a href="https://woodlandwellnessgroup.org/" target="_blank">Woodland Wellness Group</a> HTML, CSS, JS
 - <a href="https://tobymalamute.com/" target="_blank">Toby Malamute, Author</a> WordPress
-- Legacy portfolio (updating soon)
+- [Legacy portfolio](https://www.tamalweb.com/portfolio/legacy) 
 
 ### Public Facing Projects
 
