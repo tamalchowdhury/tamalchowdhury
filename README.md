@@ -16,12 +16,12 @@
 - [Kinde & Cloudflare Workers](https://docs.kinde.com/integrate/third-party-tools/verifying-jwts-cloudflare-workers/) - Made it beginner friendly.
 - [Kinde & FastAPI](https://docs.kinde.com/developer-tools/guides/protect-fastapi-routes-with-kinde/) - Python.
 - [Kinde & Firebase](https://docs.kinde.com/integrate/third-party-tools/kinde-firebase/)
+- [Kinde & Netlify](https://docs.kinde.com/developer-tools/guides/deploy-on-netlify/)
 - [Kinde & Vercel](https://docs.kinde.com/developer-tools/guides/deploy-on-vercel)
-- Kinde & Convex 
-- Kinde & Hasura
+- [Kinde & Convex](https://docs.kinde.com/integrate/third-party-tools/kinde-and-convex/)
+- [Kinde & Hasura](https://docs.kinde.com/integrate/third-party-tools/kinde-hasura/)
 - Kinde & Drizzle
 - Kinde & Prisma
-- Kinde & Netlify
 
 ### Other Docs
 
