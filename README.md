@@ -21,7 +21,7 @@
 - [Kinde & Convex](https://docs.kinde.com/integrate/third-party-tools/kinde-and-convex/)
 - [Kinde & Hasura](https://docs.kinde.com/integrate/third-party-tools/kinde-hasura/)
 - [Kinde & Drizzle](https://docs.kinde.com/integrate/third-party-tools/kinde-nextjs-drizzle/)
-- Kinde & Prisma
+- [Kinde & Prisma](https://docs.kinde.com/integrate/third-party-tools/kinde-nextjs-prisma/)
 
 ### Other Docs
 
