@@ -1,20 +1,20 @@
-# <a href="https://tamalchowdhury.com" target="_blank">Tamal Anwar Chowdhury</a>
+# [Tamal Anwar Chowdhury](https://www.linkedin.com/in/tamalchowdhury/)
 
-### Integrations Engineered from Scratch
+### Integrations created from scratch
 
-- [Kinde & Bravo Studio](https://docs.kinde.com/integrate/third-party-tools/kinde-bravo-studio) + [Figma template](https://www.figma.com/community/file/1470830408542459372/bravo-sample-kinde-auth-starter-kit) - Developed the full custom OAuth2 integration from scratch 
-- [Kinde & Electron](https://docs.kinde.com/developer-tools/guides/kinde-and-electron/) - Developed the full OAuth2 + PKCE flow from scratch. 
-- [Kinde & Supabase](https://docs.kinde.com/integrate/third-party-tools/kinde-supabase/) - Developed the new integration guide to match new architecture. 
+- [Kinde & Bravo Studio](https://docs.kinde.com/integrate/third-party-tools/kinde-bravo-studio) + [Figma template](https://www.figma.com/community/file/1470830408542459372/bravo-sample-kinde-auth-starter-kit) Custom OAuth2 flow
+- [Kinde & Electron](https://docs.kinde.com/developer-tools/guides/kinde-and-electron/) - OAuth2 + PKCE flow
+- [Kinde & Supabase](https://docs.kinde.com/integrate/third-party-tools/kinde-supabase/) - Match new architecture. 
 - [Kinde Workflow: Customize tokens](https://docs.kinde.com/workflows/workflow-tutorials/customize-token-with-workflow/)
 - [Kinde Custom Password Validator](https://docs.kinde.com/workflows/workflow-tutorials/custom-password-validation-check/) + [Video](https://www.youtube.com/watch?v=XGxtKf5XSLQ)
 - [Kinde Billing: Check plan cancellation eligibility](https://docs.kinde.com/workflows/workflow-tutorials/check-plan-cancellation-eligibility/)
 - [Kinde Billing: Check plan change eligibility](https://docs.kinde.com/workflows/workflow-tutorials/check-plan-change-eligibility/)
 - [Kinde Workflow: M2M Token Generation](https://docs.kinde.com/workflows/workflow-tutorials/m2m-apps-and-token-management/)
-- Kinde Mailgun Integration.
-### Integrations Repaired
+- [Kinde Mailgun Integration](https://docs.kinde.com/integrate/third-party-tools/kinde-mailgun-email-delivery/)
+### Integrations repaired
 
-- [Kinde & Cloudflare Workers](https://docs.kinde.com/integrate/third-party-tools/verifying-jwts-cloudflare-workers/) - Made it beginner friendly.
-- [Kinde & FastAPI](https://docs.kinde.com/developer-tools/guides/protect-fastapi-routes-with-kinde/) - Python.
+- [Kinde & Cloudflare Workers](https://docs.kinde.com/integrate/third-party-tools/verifying-jwts-cloudflare-workers/)
+- [Kinde & FastAPI](https://docs.kinde.com/developer-tools/guides/protect-fastapi-routes-with-kinde/)
 - [Kinde & Firebase](https://docs.kinde.com/integrate/third-party-tools/kinde-firebase/)
 - [Kinde & Netlify](https://docs.kinde.com/developer-tools/guides/deploy-on-netlify/)
 - [Kinde & Vercel](https://docs.kinde.com/developer-tools/guides/deploy-on-vercel)
@@ -22,15 +22,6 @@
 - [Kinde & Hasura](https://docs.kinde.com/integrate/third-party-tools/kinde-hasura/)
 - [Kinde & Drizzle](https://docs.kinde.com/integrate/third-party-tools/kinde-nextjs-drizzle/)
 - [Kinde & Prisma](https://docs.kinde.com/integrate/third-party-tools/kinde-nextjs-prisma/)
-
-### Other Docs
-
-- [Manage Kinde configurations via API](https://docs.kinde.com/developer-tools/guides/manage-kinde-configuration/)
-- [Kinde Guide to app store reviews](https://docs.kinde.com/releases/guides/guide-to-app-store-approvals/)
-- [Create a to-do app with Kinde and Supabase](https://docs.kinde.com/integrate/third-party-tools/kinde-supabase-todo-app/)
-- Kinde with NextJS
-
-
 ### Other Technical Writing
   
 - DigitalOcean: <a href="https://www.digitalocean.com/community/tutorials/how-to-install-node-js-and-create-a-local-development-environment-on-windows" target="_blank">Local Dev Environment on Windows</a> - Initiated the Windows guide from scratch
