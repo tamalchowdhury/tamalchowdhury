@@ -1,0 +1,147 @@
+---
+description: TypeScript coding style and conventions — applies to all TS/TSX files across all projects
+globs: **/*.ts, **/*.tsx
+alwaysApply: true
+---
+
+# TypeScript Style Guide
+
+## Quotes
+
+Always use double quotes for strings. No single quotes.
+
+```typescript
+// BAD
+const name = 'tamal'
+import { foo } from 'bar'
+
+// GOOD
+const name = "tamal"
+import { foo } from "bar"
+```
+
+## Semicolons
+
+No semicolons. Ever.
+
+```typescript
+// BAD
+const x = 1;
+export default function foo() {};
+
+// GOOD
+const x = 1
+export default function foo() {}
+```
+
+## Indentation
+
+2 spaces. No tabs.
+
+## Trailing Commas
+
+Always use trailing commas in multiline arrays, objects, and parameter lists.
+
+```typescript
+// BAD
+const obj = {
+  a: 1,
+  b: 2
+}
+
+// GOOD
+const obj = {
+  a: 1,
+  b: 2,
+}
+```
+
+## Functions — `function` vs Arrow
+
+Use the `function` keyword for all named functions, exported utilities, and Server Actions.
+Use arrow functions only for callbacks and inline expressions.
+
+```typescript
+// BAD — arrow function for named/exported function
+const getUserById = async (id: string) => {
+  return db.user.findUnique({ where: { id } })
+}
+
+export const signupAction = async (formData: FormData) => { ... }
+
+// GOOD — function keyword for named/exported
+export async function getUserById(id: string) {
+  return db.user.findUnique({ where: { id } })
+}
+
+export async function signupAction(formData: FormData) { ... }
+
+// GOOD — arrow function only as a callback
+const ids = users.map((user) => user.id)
+const admins = users.filter((user) => user.role === "admin")
+```
+
+## Async / Await
+
+Always use `async/await`. Never use `.then()` or `.catch()` chains.
+
+```typescript
+// BAD
+function getUser(id: string) {
+  return db.user.findUnique({ where: { id } }).then((user) => {
+    return user
+  })
+}
+
+// GOOD
+async function getUser(id: string) {
+  const user = await db.user.findUnique({ where: { id } })
+  return user
+}
+```
+
+## Guard Clauses — No Nested If
+
+Validate and return early at the top. Keep the happy path at the bottom with minimal nesting.
+
+```typescript
+// BAD — nested if
+async function createTweet(userId: string, content: string) {
+  const user = await getUser(userId)
+  if (user) {
+    if (content.length > 0) {
+      if (content.length <= 280) {
+        return db.tweet.create({ data: { content, authorId: userId } })
+      } else {
+        return { error: "Tweet too long" }
+      }
+    } else {
+      return { error: "Tweet is empty" }
+    }
+  } else {
+    return { error: "Not authenticated" }
+  }
+}
+
+// GOOD — guard clauses
+async function createTweet(userId: string, content: string) {
+  const user = await getUser(userId)
+  if (!user) return { error: "Not authenticated" }
+  if (content.length === 0) return { error: "Tweet is empty" }
+  if (content.length > 280) return { error: "Tweet too long" }
+
+  return db.tweet.create({ data: { content, authorId: userId } })
+}
+```
+
+## Type Imports
+
+Use `import type` when importing types only.
+
+```typescript
+// BAD
+import { User } from "@prisma/client"
+
+// GOOD
+import type { User } from "@prisma/client"
+```
