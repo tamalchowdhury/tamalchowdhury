@@ -1,6 +1,6 @@
 ### Docs @ Kinde
 
-Currently maintaining Kinde documentation [@kinde-oss/documentation](https://github.com/kinde-oss/documentation/issues?q=is%3Apr%20author%3Atamalchowdhury)
+Currently maintaining Kinde documentation [@kinde-oss/documentation](https://github.com/kinde-oss/documentation/pulls?q=is%3Apr%20author%3Atamalchowdhury)
 
 Lead the documentation of major product features such as:
 
