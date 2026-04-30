@@ -6,6 +6,7 @@ Lead the documentation of major product features such as:
 
 - [Testing section](https://docs.kinde.com/testing/)
 - [MCP section](https://docs.kinde.com/mcp-server/about-mcp-server/)
+- [Tanstack SDK page](https://docs.kinde.com/developer-tools/sdks/backend/tsr-sdk/)
 - and various first-party and third-party integrations
 
 ### Programming content creator
