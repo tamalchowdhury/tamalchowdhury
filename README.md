@@ -1,6 +1,6 @@
 ### Docs @ Kinde
 
-Maintaining Kinde documentation [@kinde-oss/documentation](https://github.com/kinde-oss/documentation/issues?q=is%3Apr%20author%3Atamalchowdhury) (PR list)
+Maintaining [Kinde Auth's](https://kinde.com) documentation [@kinde-oss/documentation](https://github.com/kinde-oss/documentation/issues?q=is%3Apr%20author%3Atamalchowdhury) (PR list)
 
 Lead the documentation of major product features and resources such as:
 
@@ -12,4 +12,4 @@ Lead the documentation of major product features and resources such as:
 
 ### Documenting my journey
 
-I found my passion for programming after the age of 30. Creating tech career content in Bangla on my [Facebook profile](https://www.facebook.com/tamalchowdhury.profile/)
+I found my passion for programming after the age of 30. Creating tech career content in Bangla on my [Facebook profile](https://www.facebook.com/tamalchowdhury.profile/) If you want to read how I started, check out: [I never thought I would become a programmer one day](https://tamalchowdhury.medium.com/never-thought-i-would-become-a-programmer-one-day-repost-1fe37cb42630?postPublishedType=repub)
